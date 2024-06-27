@@ -654,10 +654,6 @@
    'C:\\Users\\Jazmi '
    'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Jazmi '
-   'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
-   'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Jazmi '
    'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
@@ -665,6 +661,10 @@
   ('stringprep',
    'C:\\Users\\Jazmi '
    'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Jazmi '
+   'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('tqdm',
    'C:\\Users\\Jazmi '

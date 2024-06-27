@@ -159,7 +159,7 @@
  [],
  False,
  False,
- 1719489993,
+ 1719490253,
  [('run.exe',
    'C:\\Users\\Jazmi '
    'Izzati\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',

@@ -7,12 +7,7 @@ def download_beatmap(mapset_id):
     response = requests.get(url, stream=True)
     
     if response.status_code == 200:
-        # Create the directory if it doesn't exist
-        directory = "downloaded_beatmaps"
-        if not os.path.exists(directory):
-            os.makedirs(directory)
-
-        file_name = os.path.join(directory, f"{mapset_id}.osz")
+        file_name = os.path.join(f"{mapset_id}.osz")
         total_size = int(response.headers.get('content-length', 0))
         block_size = 1024
 
